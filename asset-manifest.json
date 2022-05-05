@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/kodecamptask5/static/css/main.e7f2c6fb.css",
+    "main.js": "/kodecamptask5/static/js/main.f45d735c.js",
+    "static/media/bg.jpg": "/kodecamptask5/static/media/bg.d044e3a5617e3adf9ae8.jpg",
+    "index.html": "/kodecamptask5/index.html",
+    "main.e7f2c6fb.css.map": "/kodecamptask5/static/css/main.e7f2c6fb.css.map",
+    "main.f45d735c.js.map": "/kodecamptask5/static/js/main.f45d735c.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e7f2c6fb.css",
+    "static/js/main.f45d735c.js"
+  ]
+}
